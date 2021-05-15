@@ -24,7 +24,7 @@ Special thanks to: [@ns222](https://github.com/ns222)
 
 We believe every country and community, regardless of wealth or ability, should be able to operate an organ transplant network for its citizens. We believe this organ transplant network should be safe, auditable, free of fraud, waste, and abuse; we believe this system should benefit life and reduce death. 
 
-While this system will only ever exist as a reference implementation for United States policy, it will feature experimental algorithms to test alongside core functionality covered under public policy of the OPTN. Based upon statue the only organization in the United States that can run the Organ Network is UNOS, so this project remains hypothetical until further notice. 
+While this system will only ever exist as a reference implementation for United States policy, it will feature experimental algorithms to test alongside core functionality covered under public policy of the OPTN. Based upon statute the only organization in the United States that can run the Organ Network is UNOS, so this project remains hypothetical until further notice. 
 
 ### Key Features & Road Map:
 - organ decay is reduced
