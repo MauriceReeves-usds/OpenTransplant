@@ -30,7 +30,7 @@ While this system will only ever exist as a reference implementation for United 
 - underserved populations and communities of color are measured against population for equity
 - the system can measure end to end actions and the implications of policy changes quickly and easily
 - the system should be near real-time with zero downtime (equivalent to a 911 system or telecom)
-- the system should not require paper or human intervention
+- the system should not require paper or human intervention for the majority of process
 - the system will be modern and incorporate medical research (HLA crossmatching, organ sizing innovations, modern logistics & tracking)
 - the system will have a modern user interface and user experience which incorporates the human perspectives of surgeons, patients, organ procurement organizations, and transplant coordinators
 - the algorithms are versioned and tested via CI/CD
@@ -57,7 +57,7 @@ This entire application was designed and built using publically available inform
 2. Webapp for Organ Referral
 3. Webapp for Patient account creation
 4. Webapp for Surgeon Organ Offer
-6. EHR FHIR API integration for EPIC & Cerner
+6. EHR FHIR API integration for [EPIC](https://www.epic.com/epic/post/one-kidney-donation-five-lives-saved) Phoenix (there Organ Transplant module) & [Cerner](https://www.cerner.com/)
 7. Gherkin & Cucumber Scenario tests for each organ & user health
 
 ### Out of Box Functionality: 
