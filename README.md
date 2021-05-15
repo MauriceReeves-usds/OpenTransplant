@@ -43,7 +43,7 @@ While this system will only ever exist as a reference implementation for United 
 
 This entire application was designed and built using publically available information from OPTN, UNOs, and HRSA found via Google as well as numerous medical papers from scholarly journals.
 
-### Architecture Diagram
+### User Journey Diagram
 
 ![Image of Idealized User Flow in Reference Prototype](https://user-images.githubusercontent.com/3818802/118364158-44786f80-b565-11eb-9b10-3f56e79d6d92.png)
 
