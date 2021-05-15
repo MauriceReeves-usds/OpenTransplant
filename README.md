@@ -48,7 +48,7 @@ This entire application was designed and built using publically available inform
 ![Image of Idealized User Flow in Reference Prototype](https://user-images.githubusercontent.com/3818802/118364158-44786f80-b565-11eb-9b10-3f56e79d6d92.png)
 
 - Web API Layer: Elixir Phoenix Web API Stack
-- FrontEnd: Node.js, SCSS styling
+- FrontEnd: JavaScript, CSS (Note: the UI is trash and will soon be replaced. We are looking for a designer & front-end expert if anybody has cycles)
 - Backend Matching & Scheduling: OCaml services
 
 ### Tech Road Map
