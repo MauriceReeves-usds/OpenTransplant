@@ -45,8 +45,6 @@ This entire application was designed and built using publically available inform
 
 ### Architecture Diagram
 
-![Image of Tentative Organ Transplant Architecture](https://user-images.githubusercontent.com/3818802/103159093-38953800-4793-11eb-87c7-090c816c9cc9.jpg)
-
 ![Image of Idealized User Flow in Reference Prototype](https://user-images.githubusercontent.com/3818802/118364158-44786f80-b565-11eb-9b10-3f56e79d6d92.png)
 
 - Web API Layer: Elixir Phoenix Web API Stack
