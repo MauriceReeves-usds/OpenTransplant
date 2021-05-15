@@ -14,7 +14,7 @@ Reference implementation only; not intended for use in any pilot or production s
 
 ### Authors
 
-- Devops: [@yanlow](https://github.com/yanlow) 
+- Devops & Backend: [@yanlow](https://github.com/yanlow) 
 - Algorithms & Backend: [@wiredsister](https://github.com/wiredsister)
 - Product: [@MeredithStewart](https://github.com/MeredithStewart)
 
